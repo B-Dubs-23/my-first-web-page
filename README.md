@@ -1,13 +1,13 @@
-# _{First Webpage}_
+# _First Webpage_
 
-#### _{I am building out a simple web page in order to reinforce the concepts I am learning from Epicodus curriculum I found online}_
+#### _I am building out a simple web page in order to reinforce the concepts I am learning from Epicodus curriculum I found online_
 
-#### By _**{Brad White}**_
+#### By _**Brad White**_
 
 ## Technologies Used
-_{HTML}_
+_HTML_
 
 ## Copyright (c) 2016 Brad White All Rights Reserved.
 
 ## License
-*{This site is licensed under the MIT license}*
+*This site is licensed under the MIT license*
